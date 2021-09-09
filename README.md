@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/snapypattnaik" target="blank"><img src="https://img.shields.io/twitter/follow/snapypattnaik?logo=twitter&style=for-the-badge" alt="snapypattnaik" /></a> </p>
 
+- 📫 How to reach me **pattnaik.chiranjeevi31@gmail.com**
+
 - ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjeevi321&show_icons=true&locale=en" alt="chiranjeevi321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeevi321&" alt="chiranjeevi321" /></p>
+
 
