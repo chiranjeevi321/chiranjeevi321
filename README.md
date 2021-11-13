@@ -3,7 +3,7 @@
 ![Alt Text](./coolboy.gif?s=200)
 
 <div align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=chiranjeevi321">
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=SubhamRaoniar28">
 </div>
 <br><br>
 <p align="center" style="margin-top:10px">
@@ -12,6 +12,25 @@ Welcome to my Github profile!</b> <br>
 Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
 <i>Want to collaborate, reach me below.</i>
 </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/chiranjeevi-pattnaik-688822a9/">
+    <img width="30px" src="/assests/linkedin-line.svg"  />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/SnapyPattnaik">
+    <img width="28px" src="/assests/twitter-line.svg" />
+  </a>  
+  &nbsp;
+  <a href="https://www.instagram.com/chiranjeevipattnaik/">
+    <img width="28px" src="/assests/instagram-line.svg" />
+  </a>  
+  &nbsp;
+  <a href="https://medium.com/@pattnaik.chiranjeevi31">
+    <img width="28px" src="/assests/medium-line.svg" />
+  </a> 
+</div>
+<br>
+<br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chiranjeevi</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
