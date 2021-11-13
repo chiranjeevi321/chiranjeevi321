@@ -3,7 +3,7 @@
 ![Alt Text](./coolboy.gif?s=200)
 
 <div align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=GaganpreetKaurKalsi">
+<img align="center" src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </div>
 <br><br>
 <p align="center" style="margin-top:10px">
@@ -144,3 +144,21 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/chiranjeevi321?tab=followers"></a>
+
+
+
+
+
+<div align="center">
+  <br>
+  <p><b>Thank you for your time.</b><br>
+    It was nice having you here.<br><br>
+    If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
+  <a href="mailto:gagansinghkalsi4126@gmail.com">
+      <img width="20px" src="/assests/gmail.svg" />
+  </a></p>
+</div>
+<br>
+
+<h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
+
