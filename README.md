@@ -14,19 +14,19 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/chiranjeevi-pattnaik-688822a9/">
-    <img width="30px" src="/assests/linkedin-line.svg"  />
+    <img width="30px" src="/linkedin-line.svg"  />
   </a>
   &nbsp;
   <a href="https://twitter.com/SnapyPattnaik">
-    <img width="28px" src="/assests/twitter-line.svg" />
+    <img width="28px" src="/twitter-line.svg" />
   </a>  
   &nbsp;
   <a href="https://www.instagram.com/chiranjeevipattnaik/">
-    <img width="28px" src="/assests/instagram-line.svg" />
+    <img width="28px" src="/instagram-line.svg" />
   </a>  
   &nbsp;
   <a href="https://medium.com/@pattnaik.chiranjeevi31">
-    <img width="28px" src="/assests/medium-line.svg" />
+    <img width="28px" src="/medium-line.svg" />
   </a> 
 </div>
 <br>
