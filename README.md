@@ -154,8 +154,8 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <p><b>Thank you for your time.</b><br>
     It was nice having you here.<br><br>
     If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
-  <a href="mailto:gagansinghkalsi4126@gmail.com">
-      <img width="20px" src="/assests/gmail.svg" />
+  <a href="mailto:pattnaik.chiranjeevi31@gmail.com">
+      <img width="20px" src="/gmail.svg" />
   </a></p>
 </div>
 <br>
