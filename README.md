@@ -2,6 +2,17 @@
 
 ![Alt Text](./coolboy.gif?s=200)
 
+<div align="center">
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=chiranjeevi321">
+</div>
+<br><br>
+<p align="center" style="margin-top:10px">
+<b>
+Welcome to my Github profile!</b> <br>
+Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
+<i>Want to collaborate, reach me below.</i>
+</p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chiranjeevi</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
