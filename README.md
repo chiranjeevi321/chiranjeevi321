@@ -3,7 +3,7 @@
 ![Alt Text](./coolboy.gif?s=200)
 
 <div align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=SubhamRaoniar28">
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=GaganpreetKaurKalsi">
 </div>
 <br><br>
 <p align="center" style="margin-top:10px">
